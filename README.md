@@ -2,56 +2,23 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot Logo" width="100" height="100">
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png" alt="Kubernetes Logo" width="100" height="100">
 </p>
 
-<p align="center">
-  This repository contains [brief description of your project]. It utilizes technologies such as Java 8, Spring Boot, Microservices architecture, Docker, and Kubernetes.
-</p>
+### Hi there 👋, Manish Negi
+#### Principle Software Engineer
+![Principle Software Engineer](https://github.com/devgitmanish)
 
-<h2 align="center">Features</h2>
+Highly experienced, solution-oriented professional with 8+ years of remarkable background in overseeing all aspects of the software Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide verity of programs and tools to provide high-quality and cost-effective applications/systems to boost organisational efficiency and productivity. 
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+Skills: java8 | spring-boot | spring-security | micro-services | JPA | kafka | docker | kubernetes
 
-<h2 align="center">Prerequisites</h2>
+- 🔭 I’m currently working on Optum Global Solutions 
+- 🌱 I’m currently learning DS | Alogrith 
 
-<p align="center">
-  Make sure you have the following installed:
-</p>
 
-- Java 8
-- Maven
-- Docker
-- Kubernetes
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devgitmanish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/dev-manishnegi/)  
 
-<h2 align="center">Getting Started</h2>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgitmanish&show_icons=true)  
 
-1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/[your-username]/[your-repo-name].git
-    ```
 
-2. [Add any other setup instructions]
-
-<h2 align="center">Usage</h2>
-
-<p align="center">
-  [Provide instructions on how to use your project]
-</p>
-
-<h2 align="center">Contributions</h2>
-
-<p align="center">
-  Contributions are welcome! Please feel free to submit a pull request.
-</p>
-
-<h2 align="center">License</h2>
-
-<p align="center">
-  [Choose an appropriate license for your project]
-</p>
