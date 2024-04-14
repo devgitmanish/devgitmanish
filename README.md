@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to [Your Project Name] Repository! 👋</h1>
+<h1 align="center">Welcome to Manish Repository! 👋</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
@@ -6,7 +6,6 @@
 
 ### Hi there 👋, Manish Negi
 #### Principle Software Engineer
-![Principle Software Engineer](https://github.com/devgitmanish)
 
 Highly experienced, solution-oriented professional with 8+ years of remarkable background in overseeing all aspects of the software Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide verity of programs and tools to provide high-quality and cost-effective applications/systems to boost organisational efficiency and productivity. 
 
