@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
   <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="kubernetes Logo" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="kubernetes Logo" width="250" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="kubernetes Logo" width="300" height="100">
   
   
 </p>
