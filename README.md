@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png" alt="Kubernetes Logo" width="100" height="100">
+  <img src="https://en.wikipedia.org/wiki/File:Kubernetes_logo_without_workmark.svg" alt="kubernetes Logo" width="100" height="100">
+  
 </p>
 
 ### Hi there, Manish Negi
