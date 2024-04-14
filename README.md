@@ -1,30 +1,34 @@
-# Welcome to Repository! 👋
+<h1 align="center">Welcome to [Your Project Name] Repository! 👋</h1>
 
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-![Spring Boot Logo](https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg)
-![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
+  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot Logo" width="100" height="100">
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png" alt="Kubernetes Logo" width="100" height="100">
+</p>
 
-## Overview
+<p align="center">
+  This repository contains [brief description of your project]. It utilizes technologies such as Java 8, Spring Boot, Microservices architecture, Docker, and Kubernetes.
+</p>
 
-This repository contains [brief description of your project]. It utilizes technologies such as Java 8, Spring Boot, Microservices architecture, Docker, and Kubernetes.
-
-## Features
+<h2 align="center">Features</h2>
 
 - [Feature 1]
 - [Feature 2]
 - [Feature 3]
 
-## Prerequisites
+<h2 align="center">Prerequisites</h2>
 
-Make sure you have the following installed:
+<p align="center">
+  Make sure you have the following installed:
+</p>
 
 - Java 8
 - Maven
 - Docker
 - Kubernetes
 
-## Getting Started
+<h2 align="center">Getting Started</h2>
 
 1. Clone the repository:
 
@@ -34,14 +38,20 @@ Make sure you have the following installed:
 
 2. [Add any other setup instructions]
 
-## Usage
+<h2 align="center">Usage</h2>
 
-[Provide instructions on how to use your project]
+<p align="center">
+  [Provide instructions on how to use your project]
+</p>
 
-## Contributions
+<h2 align="center">Contributions</h2>
 
-Contributions are welcome! Please feel free to submit a pull request.
+<p align="center">
+  Contributions are welcome! Please feel free to submit a pull request.
+</p>
 
-## License
+<h2 align="center">License</h2>
 
-[Choose an appropriate license for your project]
+<p align="center">
+  [Choose an appropriate license for your project]
+</p>
