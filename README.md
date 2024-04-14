@@ -8,8 +8,9 @@
 #### Principle Software Engineer
 
 Highly experienced, solution-oriented professional with 8+ years of remarkable background in overseeing all aspects of the software Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide verity of programs and tools to provide high-quality and cost-effective applications/systems to boost organisational efficiency and productivity. 
+Process unmatched coding and testing skills to deliver client/business-specific programs.
 
-Skills: java8 | spring-boot | spring-security | micro-services | JPA | kafka | docker | kubernetes
+Skills: java8 | spring-boot | spring-security | micro-services | JPA | kafka | docker | kubernetes | Event-Driven | System Design | 
 
 - 🔭 I’m currently working on Optum Global Solutions 
 - 🌱 I’m currently learning DS | Alogrith 
