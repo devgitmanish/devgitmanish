@@ -1,19 +1,19 @@
-<h1 align="center">Welcome to Manish Repository! 👋</h1>
+<h1 align="center">Welcome to Manish Repository!</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
 </p>
 
-### Hi there 👋, Manish Negi
+### Hi there, Manish Negi
 #### Sr. Software Engineer
 
 Highly experienced, solution-oriented professional with 8+ years of remarkable background in overseeing all aspects of the software Development Life Cycle, from extensive analysis and design through execution and maintenance. Proficient in utilizing a wide verity of programs and tools to provide high-quality and cost-effective applications/systems to boost organisational efficiency and productivity. 
 Process unmatched coding and testing skills to deliver client/business-specific programs.
 
-Skills: java8 | spring-boot | spring-security | micro-services | JPA | kafka | docker | kubernetes | Event-Driven | System Design | 
+Skills: java-8 | spring-boot | spring-security | micro-services | JPA | kafka | docker | kubernetes | Event-Driven | System Design | 
 
 - 🔭 I’m currently working on Optum Global Solutions 
-- 🌱 I’m currently learning DS | Alogrith 
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devgitmanish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/dev-manishnegi/)  
