@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="80" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Java Logo" width="80" height="80">
   <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="kubernetes Logo" width="80" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="kubernetes Logo" width="350" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="kubernetes Logo" width="300" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kubernetes Logo" width="80" height="80">
   
   
