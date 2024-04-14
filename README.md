@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
-  <img src="https://en.wikipedia.org/wiki/File:Kubernetes_logo_without_workmark.svg" alt="kubernetes Logo" width="100" height="100">
+  <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="kubernetes Logo" width="100" height="100">
   
 </p>
 
